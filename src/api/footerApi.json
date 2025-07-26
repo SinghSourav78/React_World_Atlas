@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Patna,Bihar"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9567332468"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "contact@Coder.com"
+    }
+  ]
